@@ -1,1 +1,3 @@
-# OOP-Project-4
+# OOP-Project-4: Kattis Coding Contests
+A collection of programs from coding contests on Kattis. everywhere.py is from "I've Been Everywhere, Man". It outputs the number of distinct cities from a list of cities input by the user. hothike.py is from "Hot Hike". It determines the best day to go one a hike based off of the input of vacation length and temperatures.
+hangingout.py is from "Hanging Out on the Terrace". It outputs the number of groups denied based on the input of person limit, whether the people are entering or leaving, and the size of the group. symmetric.py is from "Symmetric Order". It creates a symmetric list of names based on an input of names in ascending lengths.
